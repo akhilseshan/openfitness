@@ -1,4 +1,5 @@
-.input-group {
+/* The code below is making the page unresponsive */
+/* .input-group {
   position: relative;
   display: -ms-flexbox;
   display: flex;
@@ -9,7 +10,7 @@
   width: 80%;
   padding-left: 270px;
   padding-top: 30px;
-}
+} */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -26,7 +27,8 @@ body {
   background-size: 200%;
 }
 @media (max-width: 576px) {
-  .input-group {
+  /*The code below is making the code unresponsive */
+  /* .input-group {
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -37,7 +39,7 @@ body {
     width: 100%;
     padding-left: 100px;
     padding-top: 10px;
-  }
+  } */
   body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
