@@ -15,4 +15,16 @@
 
 body {
   background-image: url(" /assets/banner.jpg");
+  background-position: top center;
+  margin-top: 18%;
+}
+
+body row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-weight: 200;
+  font-size: 120px;
 }
