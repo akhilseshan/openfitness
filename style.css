@@ -14,7 +14,9 @@
 }
 
 body {
-  background-image: url(" /assets/banner.jpg");
+  background-image: url("/assets/banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   background-position: top center;
   margin-top: 18%;
 }
