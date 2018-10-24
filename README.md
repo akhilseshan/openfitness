@@ -1,2 +1,2 @@
 # OpenFitness
-OpenFitness
+OpenFitness.
